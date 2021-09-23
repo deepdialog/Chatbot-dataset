@@ -1,0 +1,24 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Emotion: WOW
+------------------------
+wow
+wow wow
+wow wow wow
+wooow
+woah
+
+
+<Response>
+Wow indeed!

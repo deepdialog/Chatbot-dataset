@@ -1,0 +1,30 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Refocus
+------------------------
+how?
+show me
+tell me
+I want to know
+I'd like to more
+I want to know more
+explain please
+something else
+tell me more
+please explain
+
+
+
+<Response>
+I'm glad to tell you more. Just ask me questions.
